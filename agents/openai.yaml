@@ -1,0 +1,3 @@
+interface:
+  display_name: "Video to Document"
+  short_description: "把在线视频（B站等）转成整理好的文档版 + 逐字稿"
